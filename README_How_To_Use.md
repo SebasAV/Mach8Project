@@ -1,6 +1,8 @@
 ## Mach Eight Sample Project - How to use
 
-This is the Sebastian Aponte Vivas sample project.
+This is the Sebastian Aponte Vivas sample project (ProjectSAV).
+
+Inside the **ProjectSAV** directory you will find a function called **palyersAddInpt**.
 
 This function allows the user to enter an integer and print a list with the
 names of all pairs of NBA players whose height in inches adds up to the integer.
