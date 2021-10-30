@@ -7,7 +7,9 @@ names of all pairs of NBA players whose height in inches adds up to the integer.
 
 -------------------------------------------------------------------------------
 ### Clone repo:
-To clone the repo just open Git Bash/Git GUI and 
+To clone the repo just open Git Bash/Git GUI and type:
+
+> https://github.com/SebasAV/Mach8Project.git
 
 -------------------------------------------------------------------------------
 ### Use:
@@ -19,10 +21,13 @@ In command prompt type:
 The word **INTEGER** should be replaced by an integer number.
 
 
->**Example:**
->    python palyersAddInpt.py 139
->    or     
->    python palyersAddInpt.py(139)
+> **Example:**
+>
+> python palyersAddInpt.py 139
+>
+> or
+>
+> python palyersAddInpt.py(139)
 
 
 If no input is entered, or the user enters a not accepted input a message with
@@ -33,8 +38,9 @@ the error description will appear.
 The function will return a list with the names of all pairs of NBA players whose
 height in inches adds up to the entered integer.
 
->**Example:**
+> **Example:**
+>
 > python palyersAddInpt.py 139
 >
->- Brevin Knight         Nate Robinson
->- Nate Robinson         Mike Wilks
+> - Brevin Knight         Nate Robinson
+> - Nate Robinson         Mike Wilks
